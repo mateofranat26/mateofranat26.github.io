@@ -1,3 +1,11 @@
+.PS5 {
+         background-color: blue;
+         color: white;
+}
+            
+.XBOX{
+          background-color: green;
+}
 body {
   background-color: lightgreen;
 }
